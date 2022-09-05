@@ -8,10 +8,10 @@ with open('requirements.txt') as fr:
 
 
 setuptools.setup(
-    name="second-test-1-0",
-    version="0.2",
-    author="Nicolas REMOND",
-    author_email="remondnicola@gmail.com",
+    name="second-test",
+    version="1.2",
+    author="DM",
+    author_email="dm@gmail.com",
     description="A public github-hosted python package for test, with dependency.",
     long_description=long_description,
     long_description_content_type="text/markdown",
