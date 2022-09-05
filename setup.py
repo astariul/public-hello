@@ -8,14 +8,14 @@ with open('requirements.txt') as fr:
 
 
 setuptools.setup(
-    name="public_hello",
+    name="second-test-1-0",
     version="0.2",
     author="Nicolas REMOND",
     author_email="remondnicola@gmail.com",
     description="A public github-hosted python package for test, with dependency.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/astariul/public-hello",
+    url="https://github.com/RMagician/public-hello",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3.6",
